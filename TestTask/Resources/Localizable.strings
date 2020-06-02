@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TestTaskMCT
+
+  Created by Igor on 01/04/2019.
+  Copyright © 2019 Igor. All rights reserved.
+*/
+
+"error" = "Ошибка";
+"generated_error" = "Неизвестная ошибка";
+"server_error" = "Ошибка сервера";
+"make_request_fail" = "Ошибка запроса";
+"artist_not_found" = "Не найдено";
+"artist_list_vc_title" = "Кого ищем?";
+"search" = "Поиск";
+"cancel" = "Отмена";
